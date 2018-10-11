@@ -328,3 +328,5 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/Setup_ExcelSheetCompare.exe
+/エクセルファイルを比較.xlsm
